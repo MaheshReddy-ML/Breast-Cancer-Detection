@@ -4,7 +4,7 @@
 This script implements a logistic regression classifier from scratch to predict whether a tumor is malignant or benign.
 It uses manual gradient descent, no ML libraries like scikit-learn, and processes the Breast Cancer Wisconsin dataset.
 
-Author: Mahesh Reddy Sanikommu
+Author: Mahesh Reddy 
 Accuracy Achieved: ~92%
 Dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 """
